@@ -1,0 +1,46 @@
+body {
+  background-color: #000;
+  color: #eee;
+  font-family: Ubuntu sans-serif;
+  font-size: 20px;
+}
+
+h1 {
+  color: #0ad;
+  font-size: 60px;
+}
+
+h2 {
+  color: #aee;
+  font-size: 50px;
+}
+
+h3 {
+  color: #3c3;
+  font-size: 45px;
+}
+
+h4 {
+  color: #f0f;
+  font-size: 40px;
+}
+
+h5 {
+  color: #93c;
+  font-size: 35px;
+}
+
+
+h6 {
+  color: #408;
+  font-size: 30px;
+}
+
+p {
+  color: #fff;
+}
+
+a {
+  color: #00f;
+  font-family: "Ubuntu Mono" monospace;
+}
